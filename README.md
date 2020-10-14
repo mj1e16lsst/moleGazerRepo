@@ -2,8 +2,6 @@
 
 The pBoorm folder contains routines written by Peter Boorman, please direct questions to - 
 
----- add more detail to pboorm section
-
 The MJohnson folder contains routines written by Michael Johnson, please direct questions to Michael.Johnson0100@gmail.com.
 
 At the time of writing, there are 5 notebooks contained within the MJohnson folder, each dedicated to a specific task. These notebooks are:
