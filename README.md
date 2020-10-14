@@ -42,15 +42,7 @@ Function: This code operates by first computing the detected mole locations for 
 
 Future Plans: The low hanging fruit for futher work on this notebook is experimentation with attributes and the values ranges. The attributes currently included are believed to be the three most impactful for object detection however this is not necessarily the case. Granularity of the value ranges is also important but drastically increases the computation time. One improvement for effciency would be to transfer the data to spark data frames instead of pandas and use Apache spark to compute the SQL queries. 
 
--------------------------------
-
-# finalResults_SExtractor.ipynb
-
-Purpose: 
-
-----------------------------
-
-# multiRegionalResults.ipynb
+Finally, the notebooks finalResults_SExtractor.ipynb and multiRegionalResults.ipynb are both dedicated to displaying the results produced by sextractorQualitySlimed-Again.ipynb. The first of which tests out different region sizes for what is considered to be a matched mole between two separate runs. The results from this notebook ultimately show that this region size does not have meaningful implications for the quality of the results and any reasonable estimate for this is acceptable. The second notebook displays metrics such as the average quality of the transient detection as well as the quality of the detection in correlation with properties of the detected moles, such as elongation or ellipticity. 
 
 -----------------------------------------------
 
