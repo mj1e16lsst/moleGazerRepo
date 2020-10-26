@@ -12,7 +12,9 @@ At the time of writing, there are 5 notebooks contained within the MJohnson fold
 - multiRegionalResults.ipynb
 - alignAlgorithm-CosineRule-Copy-alltoany.ipynb
 
-To run these notebooks, you will need to install the following packages: astropy, matplotlib, numpy, regions, pandas, pandasql, image_registration, PIL, and scipy.
+To run these notebooks, you will need to install the following python packages: astropy, matplotlib, numpy, regions, pandas, pandasql, image_registration, PIL, and scipy.
+
+You will also require a working SExtractor installation, see - http://astroa.physics.metu.edu.tr/MANUALS/sextractor/Guide2source_extractor.pdf for more detail.
 
 The following section of the documentation is devoted to describing the purpose, usage, function, and future plans for each notebook individually.
 
